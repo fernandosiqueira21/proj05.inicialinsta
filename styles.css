@@ -18,7 +18,12 @@ body
     display: flex;
     justify-content: center;
 }
-
+header{
+    top: 0;
+    position: fixed;
+    background-color: orange;
+    padding: 20px;
+}
 .instagram-wrapper
 {
     display: flex;
