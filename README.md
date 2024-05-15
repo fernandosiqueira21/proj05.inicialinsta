@@ -1,4 +1,4 @@
-# inicial-insta
+# lp-instagram
 ## Recriando a landing page do Instagram.
 
 Projeto executado em agosto de 2020, na plataforma da __*Digital Innovation One*__, com vista a compreender aspectos de usabilidade e responsividade no desenvolvimento com CSS3.
